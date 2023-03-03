@@ -11,8 +11,8 @@ In this Python project, the users are also provided an option to purchase items 
 The user can view items and then purchase the items which they need. To buy an item, the user needs to enter the product name and then click enter to confirm.
 This system then displays a message saying the user to pay the price of the item in the counter.
 
-Features
-View all products
-Add items for sale by the user
-Purchase items
+Features :
+View all products, 
+Add items for sale by the user, 
+Purchase items, 
 Search items
